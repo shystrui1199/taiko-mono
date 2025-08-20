@@ -6,7 +6,7 @@ This repository contains the Taiko Based Contestable Rollup (BCR) protocol and s
 
 Before compiling the smart contracts, ensure the following are installed and up to date:
 
-- [Foundry](https://book.getfoundry.sh/)
+- [Foundry](https://getfoundry.sh/)
 - [pnpm](https://pnpm.io/)
 
 To install dependencies:
